@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+form {
+    background-color: aqua;
+    width: 30%;
+    height: auto;
+    text-align: center;
+    margin: 80px auto;
+    border-radius: 15px;
+}
+
+li{
+    color: red;
+    text-align: left;
+}
+
+p{
+    text-align: center;
+}
+
+ul {
+    margin-left: 50px;
+}
+
+input {
+    left: 0;
+    margin: 10px;
+    width: 70%;
+    border-radius: 5px;
+    outline: 0px;
+    height: 30px;
+}
+
+h1{
+    text-align: center;
+}
+
+label {
+    font-size: 20px;
+}
